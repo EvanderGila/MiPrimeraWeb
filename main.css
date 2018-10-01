@@ -60,3 +60,11 @@
     bottom:0;
     height: 50px;
 }
+
+body{
+    margin:0;
+    background: url(Background1.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
