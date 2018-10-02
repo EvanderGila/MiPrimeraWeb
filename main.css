@@ -68,3 +68,6 @@ body{
     background-attachment: fixed;
 }
 
+html {
+  scroll-behavior: smooth;
+} 
